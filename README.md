@@ -1,6 +1,8 @@
 # Automating Metric Extraction from Quarterly Reports
 ## Sagard Case Study - Griffin MacNaughtan, April 2026
 
+<img width="2240" height="1299" alt="image" src="https://github.com/user-attachments/assets/b514ead3-95d5-44e1-b75b-7d2af256b4ba" />
+
 Extracts eight standardised financial metrics (revenue, ARR, gross margin, net retention, churn, headcount, cash, burn) from portfolio-company quarterly PDF reports and surfaces them in a dashboard.
 
 ## What's here

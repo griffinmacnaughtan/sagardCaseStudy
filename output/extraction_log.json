@@ -1,0 +1,456 @@
+[
+  {
+    "filename": "FleetLink_Q1_2025.pdf",
+    "status": "extracted",
+    "companies": [
+      "FleetLink Logistics Network"
+    ],
+    "metrics_extracted": 3,
+    "metrics_dropped": 0,
+    "metrics_list": [
+      "revenue",
+      "gross_margin",
+      "headcount"
+    ],
+    "validation_warnings": []
+  },
+  {
+    "filename": "ApexFreight_Q2_2025.pdf",
+    "status": "extracted",
+    "companies": [
+      "Apex Freight Solutions Inc."
+    ],
+    "metrics_extracted": 3,
+    "metrics_dropped": 0,
+    "metrics_list": [
+      "revenue",
+      "gross_margin",
+      "headcount"
+    ],
+    "validation_warnings": []
+  },
+  {
+    "filename": "CarbonTrack_Q2_2025.pdf",
+    "status": "extracted",
+    "companies": [
+      "CarbonTrack Analytics Corp."
+    ],
+    "metrics_extracted": 8,
+    "metrics_dropped": 0,
+    "metrics_list": [
+      "revenue",
+      "arr",
+      "gross_margin",
+      "net_retention",
+      "churn",
+      "headcount",
+      "cash",
+      "burn"
+    ],
+    "validation_warnings": []
+  },
+  {
+    "filename": "FleetLink_Q2_2025.pdf",
+    "status": "extracted",
+    "companies": [
+      "FleetLink Logistics Network"
+    ],
+    "metrics_extracted": 3,
+    "metrics_dropped": 0,
+    "metrics_list": [
+      "revenue",
+      "gross_margin",
+      "headcount"
+    ],
+    "validation_warnings": []
+  },
+  {
+    "filename": "ClearPay_Q2_2025.pdf",
+    "status": "extracted",
+    "companies": [
+      "ClearPay Technologies Ltd."
+    ],
+    "metrics_extracted": 4,
+    "metrics_dropped": 0,
+    "metrics_list": [
+      "revenue",
+      "gross_margin",
+      "headcount",
+      "cash"
+    ],
+    "validation_warnings": []
+  },
+  {
+    "filename": "FleetLink_Q4_2024.pdf",
+    "status": "extracted",
+    "companies": [
+      "FleetLink Logistics Network"
+    ],
+    "metrics_extracted": 3,
+    "metrics_dropped": 0,
+    "metrics_list": [
+      "revenue",
+      "gross_margin",
+      "headcount"
+    ],
+    "validation_warnings": []
+  },
+  {
+    "filename": "ConstructIQ_Q2_2025.pdf",
+    "status": "extracted",
+    "companies": [
+      "ConstructIQ Solutions Inc."
+    ],
+    "metrics_extracted": 8,
+    "metrics_dropped": 0,
+    "metrics_list": [
+      "revenue",
+      "arr",
+      "gross_margin",
+      "net_retention",
+      "churn",
+      "headcount",
+      "cash",
+      "burn"
+    ],
+    "validation_warnings": []
+  },
+  {
+    "filename": "LendBridge_Q2_2024.pdf",
+    "status": "extracted",
+    "companies": [
+      "LendBridge Capital Corp."
+    ],
+    "metrics_extracted": 4,
+    "metrics_dropped": 0,
+    "metrics_list": [
+      "revenue",
+      "gross_margin",
+      "churn",
+      "headcount"
+    ],
+    "validation_warnings": []
+  },
+  {
+    "filename": "LendBridge_Q1_2025.pdf",
+    "status": "extracted",
+    "companies": [
+      "LendBridge Capital Corp."
+    ],
+    "metrics_extracted": 4,
+    "metrics_dropped": 0,
+    "metrics_list": [
+      "revenue",
+      "gross_margin",
+      "churn",
+      "headcount"
+    ],
+    "validation_warnings": []
+  },
+  {
+    "filename": "LendBridge_Q3_2024.pdf",
+    "status": "extracted",
+    "companies": [
+      "LendBridge Capital Corp."
+    ],
+    "metrics_extracted": 4,
+    "metrics_dropped": 0,
+    "metrics_list": [
+      "revenue",
+      "gross_margin",
+      "churn",
+      "headcount"
+    ],
+    "validation_warnings": []
+  },
+  {
+    "filename": "LendBridge_Q2_2025.pdf",
+    "status": "extracted",
+    "companies": [
+      "LendBridge Capital Corp."
+    ],
+    "metrics_extracted": 4,
+    "metrics_dropped": 0,
+    "metrics_list": [
+      "revenue",
+      "gross_margin",
+      "churn",
+      "headcount"
+    ],
+    "validation_warnings": []
+  },
+  {
+    "filename": "LendBridge_Q4_2024.pdf",
+    "status": "extracted",
+    "companies": [
+      "LendBridge Capital Corp."
+    ],
+    "metrics_extracted": 4,
+    "metrics_dropped": 0,
+    "metrics_list": [
+      "revenue",
+      "gross_margin",
+      "churn",
+      "headcount"
+    ],
+    "validation_warnings": []
+  },
+  {
+    "filename": "MediSight_Q4_2024.pdf",
+    "status": "extracted",
+    "companies": [
+      "MediSight Data Platform Inc."
+    ],
+    "metrics_extracted": 4,
+    "metrics_dropped": 0,
+    "metrics_list": [
+      "revenue",
+      "arr",
+      "gross_margin",
+      "headcount"
+    ],
+    "validation_warnings": []
+  },
+  {
+    "filename": "MediSight_Q2_2025.pdf",
+    "status": "extracted",
+    "companies": [
+      "MediSight Data Platform Inc."
+    ],
+    "metrics_extracted": 4,
+    "metrics_dropped": 0,
+    "metrics_list": [
+      "revenue",
+      "arr",
+      "gross_margin",
+      "headcount"
+    ],
+    "validation_warnings": []
+  },
+  {
+    "filename": "MediSight_Q1_2025.pdf",
+    "status": "extracted",
+    "companies": [
+      "MediSight Data Platform Inc."
+    ],
+    "metrics_extracted": 4,
+    "metrics_dropped": 0,
+    "metrics_list": [
+      "revenue",
+      "arr",
+      "gross_margin",
+      "headcount"
+    ],
+    "validation_warnings": []
+  },
+  {
+    "filename": "NovaCloud_Q1_2025.pdf",
+    "status": "extracted",
+    "companies": [
+      "NovaCloud Analytics Inc."
+    ],
+    "metrics_extracted": 8,
+    "metrics_dropped": 0,
+    "metrics_list": [
+      "revenue",
+      "arr",
+      "gross_margin",
+      "net_retention",
+      "churn",
+      "headcount",
+      "cash",
+      "burn"
+    ],
+    "validation_warnings": []
+  },
+  {
+    "filename": "NovaCloud_Q2_2024.pdf",
+    "status": "extracted",
+    "companies": [
+      "NovaCloud Analytics Inc."
+    ],
+    "metrics_extracted": 8,
+    "metrics_dropped": 0,
+    "metrics_list": [
+      "revenue",
+      "arr",
+      "gross_margin",
+      "net_retention",
+      "churn",
+      "cash",
+      "burn",
+      "headcount"
+    ],
+    "validation_warnings": []
+  },
+  {
+    "filename": "NovaCloud_Q2_2025.pdf",
+    "status": "extracted",
+    "companies": [
+      "NovaCloud Analytics Inc."
+    ],
+    "metrics_extracted": 8,
+    "metrics_dropped": 0,
+    "metrics_list": [
+      "revenue",
+      "arr",
+      "gross_margin",
+      "net_retention",
+      "churn",
+      "headcount",
+      "cash",
+      "burn"
+    ],
+    "validation_warnings": []
+  },
+  {
+    "filename": "NovaCloud_Q3_2024.pdf",
+    "status": "extracted",
+    "companies": [
+      "NovaCloud Analytics Inc."
+    ],
+    "metrics_extracted": 8,
+    "metrics_dropped": 0,
+    "metrics_list": [
+      "revenue",
+      "arr",
+      "gross_margin",
+      "net_retention",
+      "churn",
+      "cash",
+      "burn",
+      "headcount"
+    ],
+    "validation_warnings": []
+  },
+  {
+    "filename": "PeopleFlow_Q1_2025.pdf",
+    "status": "extracted",
+    "companies": [
+      "PeopleFlow HR Systems Ltd."
+    ],
+    "metrics_extracted": 6,
+    "metrics_dropped": 0,
+    "metrics_list": [
+      "revenue",
+      "arr",
+      "gross_margin",
+      "net_retention",
+      "churn",
+      "headcount"
+    ],
+    "validation_warnings": []
+  },
+  {
+    "filename": "NovaCloud_Q4_2024.pdf",
+    "status": "extracted",
+    "companies": [
+      "NovaCloud Analytics Inc."
+    ],
+    "metrics_extracted": 8,
+    "metrics_dropped": 0,
+    "metrics_list": [
+      "revenue",
+      "arr",
+      "gross_margin",
+      "net_retention",
+      "churn",
+      "headcount",
+      "cash",
+      "burn"
+    ],
+    "validation_warnings": []
+  },
+  {
+    "filename": "PeopleFlow_Q2_2025.pdf",
+    "status": "extracted",
+    "companies": [
+      "PeopleFlow HR Systems Ltd."
+    ],
+    "metrics_extracted": 6,
+    "metrics_dropped": 0,
+    "metrics_list": [
+      "revenue",
+      "arr",
+      "gross_margin",
+      "net_retention",
+      "churn",
+      "headcount"
+    ],
+    "validation_warnings": []
+  },
+  {
+    "filename": "PeopleFlow_Q4_2024.pdf",
+    "status": "extracted",
+    "companies": [
+      "PeopleFlow HR Systems Ltd."
+    ],
+    "metrics_extracted": 6,
+    "metrics_dropped": 0,
+    "metrics_list": [
+      "revenue",
+      "arr",
+      "gross_margin",
+      "net_retention",
+      "churn",
+      "headcount"
+    ],
+    "validation_warnings": []
+  },
+  {
+    "filename": "TalentVault_Q2_2025.pdf",
+    "status": "extracted",
+    "companies": [
+      "TalentVault Inc."
+    ],
+    "metrics_extracted": 7,
+    "metrics_dropped": 0,
+    "metrics_list": [
+      "revenue",
+      "arr",
+      "gross_margin",
+      "net_retention",
+      "headcount",
+      "cash",
+      "burn"
+    ],
+    "validation_warnings": []
+  },
+  {
+    "filename": "Portfolio_Snapshot_Q2_2025.pdf",
+    "status": "extracted",
+    "companies": [
+      "NovaCloud Analytics Inc.",
+      "MediSight Data Platform Inc.",
+      "TalentVault Inc.",
+      "CarbonTrack Analytics Corp."
+    ],
+    "metrics_extracted": 22,
+    "metrics_dropped": 0,
+    "metrics_list": [
+      "revenue",
+      "arr",
+      "gross_margin",
+      "net_retention",
+      "churn",
+      "cash",
+      "headcount",
+      "revenue",
+      "arr",
+      "gross_margin",
+      "headcount",
+      "revenue",
+      "arr",
+      "gross_margin",
+      "net_retention",
+      "burn",
+      "revenue",
+      "arr",
+      "gross_margin",
+      "net_retention",
+      "headcount",
+      "burn"
+    ],
+    "validation_warnings": []
+  }
+]
